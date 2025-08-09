@@ -21,6 +21,9 @@ project/
 │-- README.md                   # Project documentation
 ```
 
+Live App
+https://vision-dashboard.streamlit.app/
+
 ## 🛠️ Steps to Run
 
 1. **Install Dependencies**
@@ -34,7 +37,7 @@ project/
 3. **Run the App**
 
    ```bash
-   streamlit run teaching_dashboard_fuzzy_matching.py
+   streamlit run vdic_dashboard.py
    ```
 4. **Use the Dashboard**
 
